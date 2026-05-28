@@ -1,0 +1,10 @@
+# Session data
+xournal_session.txt
+
+# Executables
+handle64.exe
+handle.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
